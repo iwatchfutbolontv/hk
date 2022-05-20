@@ -40,14 +40,19 @@ http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/2181
 
 #EXTINF:-1,UK: BT Sport 1
 http://hold2.site:2082/jordiespluga1603/HD8TTwSmKBgA/210586
+#EXTINF:-1,UK BT Sports 1
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/2337
+#EXTINF:-1,UK BT Sports 2 
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/2336
 #EXTINF:-1,UK: BT Sport 2
 http://hold2.site:2082/jordiespluga1603/HD8TTwSmKBgA/210587
 #EXTINF:-1,UK: BT Sport 3
 http://hold2.site:2082/jordiespluga1603/HD8TTwSmKBgA/210588
+#EXTINF:-1,UK BT Sports 3 
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/2335
 
 #EXTINF:-1,PT SPORT TV 1 
 http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/848
-
 #EXTINF:-1,PT: SPORT TV 1
 http://hold2.site:2082/jordiespluga1603/HD8TTwSmKBgA/218060
 #EXTINF:-1,PT:  SPORT TV 2
